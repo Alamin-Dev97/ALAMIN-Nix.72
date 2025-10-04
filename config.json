@@ -4,7 +4,7 @@
   "language": "en",
   "api": "http://65.109.80.126:20409/aryan",
   "baby": "https://nix-baby-apis.vercel.app",
-  "nickNameBot": "𝗬𝗢𝗨𝗥-𝗧𝗢𝗠🚀",
+  "nickNameBot": "𝗧𝗢𝗠.🌊",
   "database": {
     "type": "sqlite",
     "uriMongodb": "",
